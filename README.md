@@ -1,4 +1,6 @@
-## Hi there 👋
+Bem vindo (a)!
+Sou estudante Alura
+Utilizo esse espaço para compartilhar meus projetos.
 
 <!--
 **carolbitencourt3/carolbitencourt3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
